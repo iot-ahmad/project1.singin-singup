@@ -108,10 +108,9 @@ div:hover{
 /* butoon */ 
 button {
   position: relative;
-  padding: 2px 2px;
   border-radius: 7px;
   border: 1px solid rgb(151, 151, 155);
-  font-size: 14px;
+  font-size: 10px;
   text-transform: uppercase;
   font-weight: 600;
   letter-spacing: 2px;
@@ -182,4 +181,5 @@ button:active {
 .a{
 background-color: #000000;
 }
+
 
