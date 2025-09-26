@@ -8,7 +8,7 @@ body {
 /* form */
 form {
     background-color: #cecece;
-    padding: 20px;
+    padding: 40px;
     width: 45%;
     border-radius: 20px 20px;
     display: flex;
@@ -17,7 +17,7 @@ form {
     box-shadow:10px 1px 50px #ffffff88;
 }
 form:hover{
-    padding: 25px;
+    padding: 45px;
 }
 input {
     color: #000000;
@@ -181,4 +181,5 @@ button:active {
 }
 .a{
 background-color: #000000;
+
 }
